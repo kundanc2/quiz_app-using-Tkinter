@@ -11,6 +11,11 @@ This is a simple quiz application written in Python using the Tkinter library fo
 - **Score Display:** Displays the user's score at the end of the quiz, showing the number of correct answers.
 - **Visual Feedback:** Provides visual feedback to the user indicating whether their answer was correct or incorrect.
 
+
+##Screenshots
+![Screenshot 1](screenshots/start.png)
+![Screenshot 2](screenshots/end.png)
+
 ## Installation
 
 1. Clone the repository:
