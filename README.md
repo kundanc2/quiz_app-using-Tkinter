@@ -12,7 +12,7 @@ This is a simple quiz application written in Python using the Tkinter library fo
 - **Visual Feedback:** Provides visual feedback to the user indicating whether their answer was correct or incorrect.
 
 
-##Screenshots
+## Screenshots
 ![Screenshot 1](screenshots/start.png)
 ![Screenshot 2](screenshots/end.png)
 
